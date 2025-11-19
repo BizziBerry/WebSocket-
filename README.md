@@ -1,21 +1,27 @@
 # WebSocket Чат с Историей Сообщений
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 **Описание проекта** 
 Реализация многопользовательского веб-чата с использованием WebSocket технологии и сохранением истории сообщений между перезапусками сервера.
 
 ## 📸 Демонстрация работы
 
 1. Общение нескольких пользователей
-https://screenshots/1.gpg
+![Общение нескольких пользователей](screenshots/1.jpg)
 Два пользователя общаются в реальном времени
 
-2. История сообщений
-https://screenshots/2.jpg
+3. История сообщений
+![История сообщений](screenshots/1.jpg)
 Новый пользователь видит предыдущие сообщения
 
-3. Файл истории на сервере
-https://screenshots/3.jpg
-
+4. Файл истории на сервере
+![Файл истории на сервере](screenshots/1.jpg)
 Сохраненные сообщения в файле chat_history.txt
 
 ## Функциональность
